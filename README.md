@@ -25,5 +25,11 @@ Inserire in IF all'interno del ciclo che determini:
         -stampare "Buzz" per i numeri divisibili per 5
         
         -stampare il numero stesso per tutti gli altri
+
+
+### Note
+
+Dopo aver provato ho notato che se tenevo come ultimo passaggio del ciclo i multipli di tre e cinque venivano già stampati come multiplo di 3 così ho spostato quella condizione come iniziali, it works!
+
         
         
