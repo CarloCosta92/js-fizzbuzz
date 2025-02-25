@@ -18,12 +18,12 @@ Inserimento variabili
 
 Inserire in IF all'interno del ciclo che determini:
 
+        -stampare "FizzBuzz" per i numeri divisibili per 3 e per 5 
+
         -stampare "Fizz" al posto dei numeri divisibili per 3
 
         -stampare "Buzz" per i numeri divisibili per 5
-
-        -stampare "FizzBuzz" per i numeri divisibili per 3 e per 5
-
+        
         -stampare il numero stesso per tutti gli altri
         
         
