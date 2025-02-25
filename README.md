@@ -12,7 +12,9 @@ Per i numeri che sono sia multipli di 3 che di 5 stampi FizzBuzz.
 
 ## Sviluppo
 
-Definire un ciclo for di stampa per ogni numero da 0 a 100
+Definire un ciclo for di stampa per ogni numero da 1 a 100
+
+Inserimento variabili
 
 Inserire in IF all'interno del ciclo che determini:
 
